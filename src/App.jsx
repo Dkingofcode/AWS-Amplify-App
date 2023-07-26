@@ -4,16 +4,16 @@ import viteLogo from '/vite.svg';
 import './App.css';
 import Blog from './Blog';
 
-function App() {
-  const [count, setCount] = useState(0);
+function App() {  
 
   return (
     <>
       <div>
-          
+        <h1>React</h1>
+        
       </div>
     </>
   )
 }
 
-export default App
+export default App;
